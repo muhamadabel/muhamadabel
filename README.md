@@ -5,12 +5,20 @@
 =====================================================================
 -->
 
-<!-- ===================== HEADER (custom animated SVG) ===================== -->
-<img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header.svg" alt="Muhammad Abel Abhinaya - Frontend Developer"/>
+<!-- ===================== HEADER (custom animated SVG, theme-aware) ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-dark.svg" alt="Muhammad Abel Abhinaya - Frontend Developer" />
+</picture>
 
-<!-- ===================== TYPING ===================== -->
+<!-- ===================== TYPING (theme-aware) ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" alt="Typing SVG" />
+  </picture>
 </div>
 
 <!-- ===================== META BADGES ===================== -->
@@ -68,16 +76,32 @@ I'm a frontend developer who enjoys turning ideas into clean, reliable, and acce
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="github stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&langs_count=8" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="top languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muhamadabel&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&dayLabels=C9D1D9&stroke=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&dates=57606A&dayLabels=1F2328&stroke=D0D7DE" />
+    <img src="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&dayLabels=C9D1D9&stroke=30363D" alt="streak stats" />
+  </picture>
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=1F2328&area=true&area_color=0969DA&title_color=1F2328" />
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=C9D1D9" alt="activity graph" />
+  </picture>
 </div>
 
 <!-- ===================== CONNECT ===================== -->
@@ -95,4 +119,4 @@ I'm a frontend developer who enjoys turning ideas into clean, reliable, and acce
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:A371F7,100:56D4DD&height=120&section=footer" alt="footer"/>
