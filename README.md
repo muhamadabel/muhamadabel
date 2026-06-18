@@ -108,10 +108,10 @@ const abel = {
   <a href="mailto:muhamadabelugm@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="https://instagram.com/muhamadabel">
+  <a href="https://instagram.com/mhmmdabel._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
-  <a href="https://linkedin.com/in/muhamadabel">
+  <a href="https://www.linkedin.com/in/muhammad-abel-abhinaya-riananto-944376326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </div>
