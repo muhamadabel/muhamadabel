@@ -5,8 +5,8 @@
 =====================================================================
 -->
 
-<!-- ===================== HEADER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=210&section=header&text=Muhammad%20Abel%20Abhinaya&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%E2%80%94%20Web%20%26%20User%20Interfaces&descAlignY=58&descSize=18" alt="header"/>
+<!-- ===================== HEADER (custom animated SVG) ===================== -->
+<img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header.svg" alt="Muhammad Abel Abhinaya - Frontend Developer"/>
 
 <!-- ===================== TYPING ===================== -->
 <div align="center">
