@@ -5,20 +5,18 @@
       .name{font-family:'Singsong','Arial Black','Arial Bold',sans-serif;font-weight:700;}
       .mono{font-family:'Courier New',ui-monospace,monospace;font-weight:700;}
     </style>
-    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.1" fill="#16213e" opacity="0.10"/>
-    </pattern>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#ffffff" opacity="0.06"/></pattern>
   </defs>
-  <rect width="1200" height="330" fill="#ece6d6"/>
+  <rect width="1200" height="330" fill="#0d1117"/>
   <rect width="1200" height="330" fill="url(#dots)"/>
-  <g transform="translate(110,95) scale(1.25)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#1e3ae0"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/></path></g>
-  <g transform="translate(1080,90) scale(1.5)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#16213e"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></path></g>
+  <g transform="translate(110,95) scale(1.25)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#6ea8ff"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/></path></g>
+  <g transform="translate(1080,90) scale(1.5)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#ece6d6"><animate attributeName="opacity" values="1;0.3;1" dur="2.8s" repeatCount="indefinite"/></path></g>
   <g transform="translate(1010,240) scale(1)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#e8632a"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></path></g>
   <g transform="translate(160,250) scale(0.85)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#f4b41a"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="16s" repeatCount="indefinite"/></path></g>
   <g transform="translate(930,70) scale(0.6)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#e85a93"><animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/></path></g>
   <g transform="translate(60,185) scale(0.55)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#e8632a"><animate attributeName="opacity" values="1;0.3;1" dur="4.4s" repeatCount="indefinite"/></path></g>
-  <g transform="translate(1140,175) scale(0.7)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#1e3ae0"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/></path></g>
-  <text x="600" y="78" text-anchor="middle" class="mono" fill="#46506b" font-size="21" letter-spacing="6">MUHAMMAD ABEL ABHINAYA</text>
-  <text x="600" y="208" text-anchor="middle" class="name" font-size="118" fill="#16213e">FRONTEND <tspan fill="#1e3ae0">DEV</tspan><tspan fill="#e8632a">★</tspan></text>
-  <text x="600" y="278" text-anchor="middle" class="mono" fill="#46506b" font-size="20" letter-spacing="4">React  ·  Next.js  ·  TypeScript  ·  Laravel  ·  Three.js</text>
+  <g transform="translate(1140,175) scale(0.7)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#6ea8ff"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/></path></g>
+  <text x="600" y="78" text-anchor="middle" class="mono" fill="#8b95a8" font-size="21" letter-spacing="6">MUHAMMAD ABEL ABHINAYA</text>
+  <text x="600" y="208" text-anchor="middle" class="name" font-size="118" fill="#ece6d6">FRONTEND <tspan fill="#6ea8ff">DEV</tspan><tspan fill="#e8632a">★</tspan></text>
+  <text x="600" y="278" text-anchor="middle" class="mono" fill="#8b95a8" font-size="20" letter-spacing="4">React  ·  Next.js  ·  TypeScript  ·  Laravel  ·  Three.js</text>
 </svg>
