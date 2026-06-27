@@ -9,14 +9,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-light.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-light.svg" alt="Muhammad Abel Abhinaya - Frontend Developer" />
+    <img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-light.svg" alt="Muhammad Abel Abhinaya - Software Engineer" />
   </picture>
 </p>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=6EA8FF&center=true&vCenter=true&width=680&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Clean%2C+accessible%2C+detail-driven+web" />
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=1E3AE0&center=true&vCenter=true&width=680&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Clean%2C+accessible%2C+detail-driven+web" alt="typing" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=6EA8FF&center=true&vCenter=true&width=680&lines=Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Clean%2C+accessible%2C+detail-driven+web" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=1E3AE0&center=true&vCenter=true&width=680&lines=Software+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Clean%2C+accessible%2C+detail-driven+web" alt="typing" />
   </picture>
 </div>
 
@@ -31,7 +31,7 @@
 
 ## &#10022; About
 
-Frontend developer who enjoys turning ideas into clean, reliable, and accessible web apps. I care about the details, from pixel-perfect interfaces to maintainable, well-tested code, and I like building products that feel effortless to use.
+Software engineer who enjoys turning ideas into clean, reliable, and accessible web apps. I care about the details, from pixel-perfect interfaces to maintainable, well-tested code, and I like building products that feel effortless to use.
 
 ## &#9733; What I'm working on
 

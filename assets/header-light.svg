@@ -17,6 +17,6 @@
   <g transform="translate(60,185) scale(0.55)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#e8632a"><animate attributeName="opacity" values="1;0.3;1" dur="4.4s" repeatCount="indefinite"/></path></g>
   <g transform="translate(1140,175) scale(0.7)"><path d="M0,-23 L6.5,-8 L22,-7 L10,3 L14,20 L0,11 L-14,20 L-10,3 L-22,-7 L-6.5,-8 Z" fill="#1e3ae0"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/></path></g>
   <text x="600" y="78" text-anchor="middle" class="mono" fill="#46506b" font-size="21" letter-spacing="6">MUHAMMAD ABEL ABHINAYA</text>
-  <text x="600" y="208" text-anchor="middle" class="name" font-size="118" fill="#16213e">FRONTEND <tspan fill="#1e3ae0">DEV</tspan><tspan fill="#e8632a">★</tspan></text>
+  <text x="600" y="208" text-anchor="middle" class="name" font-size="118" fill="#16213e">SOFTWARE <tspan fill="#1e3ae0">ENG</tspan><tspan fill="#e8632a">★</tspan></text>
   <text x="600" y="278" text-anchor="middle" class="mono" fill="#46506b" font-size="20" letter-spacing="4">React  ·  Next.js  ·  TypeScript  ·  Laravel  ·  Three.js</text>
 </svg>
