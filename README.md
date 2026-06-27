@@ -27,6 +27,13 @@
   </a>
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="dev quote" />
+  </picture>
+</div>
+
 <br/>
 
 ## &#10022; About
@@ -68,6 +75,35 @@ Software engineer who enjoys turning ideas into clean, reliable, and accessible 
 ![Selenium](https://img.shields.io/badge/Selenium-1E3AE0?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-1E3AE0?style=for-the-badge&logo=cucumber&logoColor=white)
 
+## &#9733; Featured Projects
+
+<div align="center">
+  <a href="https://github.com/muhamadabel/portofun">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=portofun&hide_border=true&bg_color=0D1117&title_color=6EA8FF&text_color=C9D1D9&icon_color=E8632A" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=portofun&hide_border=true&bg_color=ECE6D6&title_color=1E3AE0&text_color=16213E&icon_color=E8632A" alt="portofun" />
+    </picture>
+  </a>
+  <a href="https://github.com/muhamadabel/Fe-SIA-UGN-Abel">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=Fe-SIA-UGN-Abel&hide_border=true&bg_color=0D1117&title_color=6EA8FF&text_color=C9D1D9&icon_color=E8632A" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=Fe-SIA-UGN-Abel&hide_border=true&bg_color=ECE6D6&title_color=1E3AE0&text_color=16213E&icon_color=E8632A" alt="Fe-SIA-UGN" />
+    </picture>
+  </a>
+  <a href="https://github.com/muhamadabel/be-rongsok.in">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=be-rongsok.in&hide_border=true&bg_color=0D1117&title_color=6EA8FF&text_color=C9D1D9&icon_color=E8632A" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=be-rongsok.in&hide_border=true&bg_color=ECE6D6&title_color=1E3AE0&text_color=16213E&icon_color=E8632A" alt="rongsokin" />
+    </picture>
+  </a>
+  <a href="https://github.com/muhamadabel/PPPL-UAS">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=PPPL-UAS&hide_border=true&bg_color=0D1117&title_color=6EA8FF&text_color=C9D1D9&icon_color=E8632A" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhamadabel&repo=PPPL-UAS&hide_border=true&bg_color=ECE6D6&title_color=1E3AE0&text_color=16213E&icon_color=E8632A" alt="PPPL-UAS" />
+    </picture>
+  </a>
+</div>
+
 ## &#9733; GitHub Stats
 
 <div align="center">
@@ -85,6 +121,30 @@ Software engineer who enjoys turning ideas into clean, reliable, and accessible 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=0D1117&ring=6EA8FF&fire=E8632A&currStreakLabel=6EA8FF&sideLabels=C9D1D9&dates=8B949E&dayLabels=C9D1D9&stroke=30363D" />
     <img src="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=ECE6D6&ring=1E3AE0&fire=E8632A&currStreakLabel=1E3AE0&sideLabels=16213E&dates=46506B&dayLabels=16213E&stroke=16213E" alt="streak stats" />
+  </picture>
+</div>
+
+## &#10022; Deeper Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamadabel&theme=nord_dark" />
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamadabel&theme=default" alt="profile summary" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhamadabel&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhamadabel&theme=default" alt="repos per language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhamadabel&theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhamadabel&theme=default" alt="most commit language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhamadabel&theme=nord_dark&utcOffset=7" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhamadabel&theme=default&utcOffset=7" alt="productive time" />
   </picture>
 </div>
 
