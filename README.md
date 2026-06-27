@@ -1,122 +1,98 @@
 <!--
 =====================================================================
-  Profil GitHub: muhamadabel
-  Dikelola otomatis. Edit teks di sini lalu minta di-push.
+  GitHub profile: muhamadabel
+  Tema: blue x cream culture (samaan sama portfolio). Edit teks di sini.
 =====================================================================
 -->
 
-<!-- ===================== HEADER (custom animated SVG, theme-aware) ===================== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header-dark.svg" alt="Muhammad Abel Abhinaya - Frontend Developer" />
-</picture>
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/main/assets/header.svg" alt="Muhammad Abel Abhinaya - Frontend Developer" />
+</p>
 
-<!-- ===================== TYPING (theme-aware) ===================== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+clean+%26+accessible+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Detail-oriented+and+quality-driven" alt="Typing SVG" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=900&color=1E3AE0&center=true&vCenter=true&width=680&lines=Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Laravel;Clean%2C+accessible%2C+detail-driven+web" alt="typing" />
 </div>
 
-<!-- ===================== META BADGES ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhamadabel&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muhamadabel&label=Profile%20views&color=1E3AE0&style=flat-square" alt="profile views" />
   <a href="https://github.com/muhamadabel?tab=followers">
-    <img src="https://img.shields.io/github/followers/muhamadabel?label=Followers&style=flat&color=58A6FF" alt="followers" />
+    <img src="https://img.shields.io/github/followers/muhamadabel?label=Followers&style=flat-square&color=E8632A" alt="followers" />
   </a>
 </div>
 
 <br/>
 
-<!-- ===================== ABOUT ===================== -->
-## About
+## &#10022; About
 
-I'm a frontend developer who enjoys turning ideas into clean, reliable, and accessible web applications. I care about the details — from pixel-perfect interfaces to maintainable, well-tested code — and I like building products that feel effortless to use.
+Frontend developer who enjoys turning ideas into clean, reliable, and accessible web apps. I care about the details, from pixel-perfect interfaces to maintainable, well-tested code, and I like building products that feel effortless to use.
 
-<!-- ===================== FOCUS ===================== -->
-## What I'm Working On
+## &#9733; What I'm working on
 
-- 🔭 Building web-based information systems with **React**, **Next.js**, and **Laravel**
-- 🧪 Practicing automated end-to-end testing with **Selenium** & **Cucumber**
-- 🎨 Sharpening my skills in **UI/UX**, accessibility, and frontend architecture
-- 💬 Always open to talk about frontend, clean code, and good design
+- Building web-based information systems with **React**, **Next.js**, and **Laravel**
+- Practicing automated end-to-end testing with **Selenium** and **Cucumber**
+- Sharpening my skills in **UI/UX**, accessibility, and frontend architecture
+- Always open to talk about frontend, clean code, and good design
 
-<!-- ===================== TECH STACK ===================== -->
-## Tech Stack
+## &#10022; Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-16213E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-16213E?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/PHP-16213E?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-16213E?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1120?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![React](https://img.shields.io/badge/React-16213E?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-16213E?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-16213E?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Three.js](https://img.shields.io/badge/Three.js-16213E?style=for-the-badge&logo=threedotjs&logoColor=white)
 
 **Backend**
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-16213E?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-16213E?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
 **Tools & Testing**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Git](https://img.shields.io/badge/Git-16213E?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-16213E?style=for-the-badge&logo=figma&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-16213E?style=for-the-badge&logo=selenium&logoColor=43B02A)
+![Cucumber](https://img.shields.io/badge/Cucumber-16213E?style=for-the-badge&logo=cucumber&logoColor=23D96C)
 
-<!-- ===================== GITHUB STATS ===================== -->
-## GitHub Stats
+## &#9733; GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=1F2328" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="github stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=1F2328&langs_count=8" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="top languages" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhamadabel&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ECE6D6&title_color=1E3AE0&icon_color=E8632A&text_color=16213E" alt="github stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadabel&layout=compact&hide_border=true&bg_color=ECE6D6&title_color=1E3AE0&text_color=16213E&langs_count=8" alt="top languages" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&dayLabels=C9D1D9&stroke=30363D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&dates=57606A&dayLabels=1F2328&stroke=D0D7DE" />
-    <img src="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&dayLabels=C9D1D9&stroke=30363D" alt="streak stats" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=muhamadabel&hide_border=true&background=ECE6D6&ring=1E3AE0&fire=E8632A&currStreakLabel=1E3AE0&sideLabels=16213E&dates=46506B&dayLabels=16213E&stroke=16213E" alt="streak stats" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=C9D1D9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=1F2328&area=true&area_color=0969DA&title_color=1F2328" />
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=C9D1D9" alt="activity graph" />
-  </picture>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadabel&hide_border=true&bg_color=ECE6D6&color=16213E&line=1E3AE0&point=E8632A&area=true&area_color=1E3AE0&title_color=16213E" alt="activity graph" />
 </div>
 
-<!-- ===================== CONNECT ===================== -->
-## Let's Connect
+## &#10022; Let's Connect
 
 <div align="center">
+  <a href="https://portofun.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-1E3AE0?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+  </a>
   <a href="mailto:muhamadabelugm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    <img src="https://img.shields.io/badge/Email-16213E?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abel-abhinaya-riananto-944376326/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-16213E?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://instagram.com/mhmmdabel._">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+    <img src="https://img.shields.io/badge/Instagram-16213E?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:A371F7,100:56D4DD&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E3AE0&height=110&section=footer&animation=fadeIn" alt="footer" />
+
+<p align="center"><sub>&#9733; built from scratch, no template &#9733;</sub></p>
