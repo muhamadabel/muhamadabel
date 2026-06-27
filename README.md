@@ -88,16 +88,6 @@ Frontend developer who enjoys turning ideas into clean, reliable, and accessible
   </picture>
 </div>
 
-## &#10022; Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhamadabel/muhamadabel/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/muhamadabel/muhamadabel/output/github-snake.svg" />
-  </picture>
-</div>
-
 ## &#9733; Activity & Trophies
 
 <div align="center">

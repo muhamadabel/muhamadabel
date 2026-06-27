@@ -1,12 +1,12 @@
 name: generate snake animation
 
+# NOTE: butuh GitHub Actions aktif (sekarang akun ke-lock billing).
+# Begitu billing beres, jalanin manual (tab Actions > Run workflow) atau tunggu schedule,
+# lalu tambahin lagi bagian snake ke README (pakai output branch).
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
