@@ -170,7 +170,7 @@ Software engineer who enjoys turning ideas into clean, reliable, and accessible 
   <a href="https://portofun.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-E8632A?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
-  <a href="mailto:muhamadabelugm@gmail.com">
+  <a href="mailto:muhammadabelabhinaya@mail.ugm.ac.id">
     <img src="https://img.shields.io/badge/Email-1E3AE0?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-abel-abhinaya-riananto-944376326/">
