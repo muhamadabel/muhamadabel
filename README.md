@@ -179,6 +179,9 @@ Software engineer who enjoys turning ideas into clean, reliable, and accessible 
   <a href="https://instagram.com/mhmmdabel._">
     <img src="https://img.shields.io/badge/Instagram-1E3AE0?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
+  <a href="https://www.tiktok.com/@belnomercy">
+    <img src="https://img.shields.io/badge/TikTok-1E3AE0?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" />
+  </a>
 </div>
 
 <picture>
